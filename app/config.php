@@ -16,7 +16,7 @@ try{
 }
 
 
-$URL='http://localhost/sistema-de-parqueo-main/sistema-parqueo/';
+$URL='http://localhost/sistema-parqueo/';
 
 $estado_del_registro = "1";
 
